@@ -1,7 +1,7 @@
 The files in the jupyter_notebook_files directory include:
 1a_deepchem_bace1_regression_deeplearning_predict.ipynb:
-input_file: load bace.csv directly from deepchem by using function load_XXX, except method 5 load bace.csv from local dir
-method: deepchem regression, except method_4 is classification
+input_file: load bace.csv directly from deepchem by using function load_XXX
+method: deepchem regression
 
 1b_deepchem_bace1_regression_lazy_predict.ipynb:
 input_file: bace.csv from molnet
